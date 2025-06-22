@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "espressif")(type "KiCad")(uri "${KIPRJMOD}/../kicad-libraries/libraries/Espressif.kicad_sym")(options "")(descr ""))
+  (version 7)
+  (lib (name "espressif")(type "KiCad")(uri "/home/michael/projects/kicad/pcbs/clickyboi/kicad-libraries/symbols/Espressif.kicad_sym")(options "")(descr ""))
 )
